@@ -7,6 +7,7 @@ Todos os cursos sobre Power Automate da Microsoft Learn:
 https://learn.microsoft.com/en-us/training/browse/?terms=power%20automate&resource_type=learning%20path
 
 Intenção de fazer todos, mas dando prioridade para:
+
 https://learn.microsoft.com/en-us/training/paths/automate-process-power-automate/
 
 https://learn.microsoft.com/en-us/training/paths/create-manage-automated-processes-by-using-power-automate/
@@ -70,3 +71,9 @@ https://www.youtube.com/watch?v=v2Rgr_ZomDw&list=PLWGKTxKF5vWcXK8xMEGzXnzBmmopQa
 - [ ] https://www.youtube.com/watch?v=v2Rgr_ZomDw&list=PLWGKTxKF5vWcXK8xMEGzXnzBmmopQay-B
 
 - [ ] https://www.youtube.com/watch?v=KLVh2s4w0h0&list=PLZVSOFwGx4zA3MluKzbxq5Nx18gj5kt5d
+
+## Certificações
+
+Planejamento de fazer:
+
+https://learn.microsoft.com/pt-br/credentials/certifications/power-automate-rpa-developer-associate/?practice-assessment-type=certification
